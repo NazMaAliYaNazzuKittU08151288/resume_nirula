@@ -1,0 +1,49 @@
+{
+	"basicdetails":{
+		"image":"image1.png",
+		"name":"Shaik.Nazma Aliya",
+		"email":"nazmaaliya786@gmail.com",
+		"mobile":"7286909311",
+		"address":"A.T.Agraharam,Guntur"
+	},
+"Education":[
+	{
+		"course":"B.tech(CSE)",
+		"college":"vignans nirula institute of technology",
+		"percentage":"75%"
+	},
+	{
+        "course":"Intermediate(M.P.C)",
+		"college":"sri chaitanya junior college",
+		"percentage":"85%"
+	},
+    {
+	    "course":"State Board(SSC)",
+		"college":"sri vijetha public school",
+		"percentage":"95%"
+    }
+],
+"skills":[
+	{
+		"name":"Operating systems",
+		"value":"Windows,Linux,MAC"
+},
+{
+	"name":"Programming Languages",
+	"value":"C,C++,Java,Python"
+}
+],
+"carrier":{
+	"ca":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+},
+"Achievements":[
+	"I got first prize in handwriting competation in my school.",
+	"I got certification of IOT in my college.",
+	"I got first prize in power point presentation in a technical event."
+    ],
+"Description":{
+	"des":"I here by to declare that what I have projected is completely true."
+}
+
+}
